@@ -1,0 +1,10 @@
+/Users/yuwen/github/EurekaAndDotnetCore2.0/DotnetCore2.0/sscore2/bin/Debug/netcoreapp2.0/sscore2.deps.json
+/Users/yuwen/github/EurekaAndDotnetCore2.0/DotnetCore2.0/sscore2/bin/Debug/netcoreapp2.0/sscore2.runtimeconfig.json
+/Users/yuwen/github/EurekaAndDotnetCore2.0/DotnetCore2.0/sscore2/bin/Debug/netcoreapp2.0/sscore2.runtimeconfig.dev.json
+/Users/yuwen/github/EurekaAndDotnetCore2.0/DotnetCore2.0/sscore2/bin/Debug/netcoreapp2.0/sscore2.dll
+/Users/yuwen/github/EurekaAndDotnetCore2.0/DotnetCore2.0/sscore2/bin/Debug/netcoreapp2.0/sscore2.pdb
+/Users/yuwen/github/EurekaAndDotnetCore2.0/DotnetCore2.0/sscore2/obj/Debug/netcoreapp2.0/sscore2.csproj.CoreCompileInputs.cache
+/Users/yuwen/github/EurekaAndDotnetCore2.0/DotnetCore2.0/sscore2/obj/Debug/netcoreapp2.0/sscore2.AssemblyInfoInputs.cache
+/Users/yuwen/github/EurekaAndDotnetCore2.0/DotnetCore2.0/sscore2/obj/Debug/netcoreapp2.0/sscore2.AssemblyInfo.cs
+/Users/yuwen/github/EurekaAndDotnetCore2.0/DotnetCore2.0/sscore2/obj/Debug/netcoreapp2.0/sscore2.dll
+/Users/yuwen/github/EurekaAndDotnetCore2.0/DotnetCore2.0/sscore2/obj/Debug/netcoreapp2.0/sscore2.pdb

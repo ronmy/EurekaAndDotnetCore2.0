@@ -1,0 +1,4 @@
+{
+    "server.urls": "http://*:8010",
+    "getinfo":"a - 8010"
+  }

@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="serviceserver">
+    <output-path>$PROJECT_DIR$/out/artifacts/serviceserver</output-path>
+    <root id="archive" name="serviceserver.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="directory" name="hello">
+        <element id="file-copy" path="$PROJECT_DIR$/target/classes/hello/EurekaServiceRegisterApplication.class" />
+      </element>
+    </root>
+  </artifact>
+</component>
